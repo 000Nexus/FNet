@@ -19,5 +19,10 @@ Hello! This is the offical guide on how to mount an FNet server to a api host!
 
 --------------------------------------------------------------------------------------
 
+# Changelog
+--------------------------------------------------------------------------------------
+	-- Made it so you can also connect the server to Unity.
+	-- (to do) : Need to add player heartbeats, for api/playerpresence/v2
+--------------------------------------------------------------------------------------
 
 There is more comming soon, so please bare with me!
