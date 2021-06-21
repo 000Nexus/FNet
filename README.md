@@ -8,7 +8,7 @@ This is a REALLY big change because I only started learning it 3 weeks ago, and 
 
 If you are wondering, the source code will be available. I may change my mind later.
 
-If you want to keep up to date, please follow the watch the repo!
+If you want to keep up to date, please watch the repo!
 
 I'll be releasing the a executable in less than 2 months.
 
