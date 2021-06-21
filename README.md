@@ -1,29 +1,35 @@
 # FNet
-Hello! This is the offical guide on how to mount an FNet server to a api host!
 
---------------------------------------------------------------------------------------
+# Hello again, there are changes!
+------------------------------------------------------
 
-	This is still in development, so please beware that there is going to be random updates.
+Other than the usual working on the project I have decided i'm going to start coding the project in node.js.
+This is a REALLY big change because I only started learning it 3 weeks ago, and I want to try it.
 
-	-- This is as simple as : connecting the ports to designated port 18823 and ws port 18824.
+If you are wondering, the source code will be available. I may change my mind later.
 
-	-- This currently supports: 
-	        Rec Room 2016 - 2017 (Because I only know how to code for that rn lol)
+If you want to keep up to date, please follow the watch the repo!
 
-   	   Ports : Localhost : 18823 
-   	   Websocket (ws) : 18824
-	   
-	   Please note that i'm working very hard for this, and may not always be working on this.
-	   
-	   Other than that, thanks for looking at the page!
+I'll be releasing the a executable in less than 2 months.
 
---------------------------------------------------------------------------------------
+------------------------------------------------------
 
-# Changelog
---------------------------------------------------------------------------------------
-	-- Made it so you can also connect the server to Unity.
-	-- (to do) : Need to add player heartbeats, for api/playerpresence/v2
-	-- (to do) : Need to add *get or create* (api/gamesessions/getorcreate/v1), *get* (api/gamesessions/get/v1)
---------------------------------------------------------------------------------------
+# Details!
 
-There is more comming soon, so please bare with me!
+> I'll be using Express, and REST for api usage.
+> More plans for other packages soon.
+
+# Suggestions
+
+> If you'd like to suggest a package for technique I could use for making this, please let me know! I'd be more than happy to talk to you!
+
+# Other
+> I might not be able to get every API available to me, so please tell me if I missed one!
+
+
+# End
+
+As for now, this is where I go. I'll be back to tell you guys more soon.
+
+> -dmF1
+> 6/21/2021
